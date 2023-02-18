@@ -1,8 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
+    margin:0px;
 }
 .Orange-color{
     color: orange;
@@ -24,4 +26,13 @@ section{
     border-radius: 10px;
     color:white;
     font-weight:800;
+}
+.top-banar{
+    background-image: url(Picture/download.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(Picture/download.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
