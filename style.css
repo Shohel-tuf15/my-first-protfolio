@@ -43,8 +43,17 @@ h1{
 }
 .experience-item{
     width:40%;
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 40px gray;
     margin:0% 5% 0% 5%;
     padding-left: 20px;
     border-radius: 10px;
+}
+#web-developer{
+    border-left: 7px solid tomato;
+}
+#industrial-engineer{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
 }
